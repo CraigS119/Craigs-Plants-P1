@@ -1,0 +1,19 @@
+/* apply to all elements */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* styling for header */
+header {
+    background-color: aqua;
+}
+
+main {
+    background-color: blueviolet;
+}
+
+footer {
+    background-color: coral;
+}
