@@ -17,6 +17,10 @@ body {
     font-family: 'poppins', sans-serif;
 }
 
+h1, h2, h3 {
+    font-family: 'pacifico', sans-serif;
+}
+
 /* styling for header */
 header {
     background-color: aqua;
