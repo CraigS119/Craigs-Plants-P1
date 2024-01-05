@@ -5,6 +5,14 @@
     box-sizing: border-box;
 }
 
+/* general style rules */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #1e6639;
+}
+
 /* styling for header */
 header {
     background-color: aqua;
