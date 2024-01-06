@@ -37,6 +37,7 @@ header a {
     font-family: 'pacifico', sans-serif;
 }
 
+/* this section styles the nav bar */
 #nav-menu {
     font-size: 115%;
     list-style-type: none;
@@ -44,6 +45,10 @@ header a {
 
 #nav-menu > li {
     margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 2px solid #1e6639;
 }
 
 
