@@ -37,6 +37,7 @@ header a {
     font-family: 'pacifico', sans-serif;
 }
 
+*                                   *
 /* this section styles the nav bar */
 #nav-menu {
     font-size: 115%;
@@ -50,6 +51,18 @@ header a {
 .active {
     border-bottom: 2px solid #1e6639;
 }
+
+/* nav bar styling and check box/toggle*/
+nav {
+    position:absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;   
+    padding: 0 2rem;
+    border-bottom: 5px solid #1e6639;
+    display: none;
+}
+
 
 
 /* styling for the main content */
