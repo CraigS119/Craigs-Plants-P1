@@ -86,7 +86,7 @@ nav {
 main {
     background-color: blueviolet;
     flex: 1 0 auto;
-    margin-top: 68px;
+    margin-top: 62px;
 }
 
 
@@ -123,4 +123,13 @@ footer {
     .nav-toggle-label {
         display: none;
     }
-}
+
+    /*This makes the logo bigger for larger screens*/
+    #logo {
+        width: 150%;
+    }
+
+    /* this pushes the main content down further due to bigger logo */
+    main {
+        margin-top: 87px;
+    }
