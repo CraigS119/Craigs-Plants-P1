@@ -105,7 +105,7 @@ footer {
 #social-title {
     margin-bottom: 10px;
     color: white;
-    font-size: 80%;
+    font-size: 90%;
 }
 
 #social-networks {
@@ -117,7 +117,7 @@ footer {
 }
 
 #social-networks i {
-    font-size: 115%;
+    font-size: 150%;
     padding: 5%;
     color: #ffffff;
 }
@@ -155,6 +155,11 @@ footer {
     /* this pushes the main content down further due to expanding nav menu */
     main {
         margin-top: 81px;
+    }
+
+    /*enlarges social-title on bigger screens*/
+    #social-title{
+        font-size: 110%;
     }
 
     
