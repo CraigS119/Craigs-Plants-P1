@@ -23,7 +23,12 @@ h1, h2, h3 {
 
 /* styling for header */
 header {
-    background-color: aqua;
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position:fixed;
+    z-index: 1;
+    width: 100%;
+    border-bottom: 5px solid #1e6639;
 }
 
 main {
