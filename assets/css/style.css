@@ -65,6 +65,7 @@ nav {
     padding: 0 2rem;
     border-bottom: 5px solid #1e6639;
     display: none;
+    top: 100%;
 }
 
 #nav-toggle:checked~nav {
