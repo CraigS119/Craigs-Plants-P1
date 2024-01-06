@@ -29,6 +29,10 @@ header {
     z-index: 1;
     width: 100%;
     border-bottom: 5px solid #1e6639;
+    /* This makes all header elements align evenly on top*/
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header a {
@@ -61,6 +65,10 @@ nav {
     padding: 0 2rem;
     border-bottom: 5px solid #1e6639;
     display: none;
+}
+
+#nav-toggle:checked~nav {
+    display:block
 }
 
 
