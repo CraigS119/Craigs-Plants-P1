@@ -130,3 +130,13 @@ footer {
         margin-top: 81.3px;
     }
 }
+
+/* media query for laptops or larger*/
+@media screen and (min-width: 992px) {
+    /* gives nav-menu elements a line underneath when hovered on */
+    menu a:hover {
+        border-bottom: #1e6639;
+    }
+
+
+}
