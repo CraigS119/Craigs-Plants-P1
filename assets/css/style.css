@@ -32,7 +32,8 @@ header {
     /* This makes all header elements align evenly on top*/
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    /*align-items: center;*/
+    align-items: baseline;
 }
 
 header a {
@@ -124,12 +125,8 @@ footer {
         display: none;
     }
 
-    /*This makes the logo bigger for larger screens*/
-    #logo {
-        width: 150%;
-    }
-
-    /* this pushes the main content down further due to bigger logo */
+    /* this pushes the main content down further due to expanding nav menu */
     main {
-        margin-top: 87px;
+        margin-top: 81.3px;
     }
+}
