@@ -37,6 +37,15 @@ header a {
     font-family: 'pacifico', sans-serif;
 }
 
+#nav-menu {
+    font-size: 115%;
+    list-style-type: none;
+}
+
+#nav-menu > li {
+    margin-bottom: 1em;
+}
+
 
 /* styling for the main content */
 
