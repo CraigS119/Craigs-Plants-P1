@@ -31,11 +31,22 @@ header {
     border-bottom: 5px solid #1e6639;
 }
 
+header a {
+    text-decoration: none;
+    color: #1e6639;
+    font-family: 'pacifico', sans-serif;
+}
+
+
+/* styling for the main content */
+
 main {
     background-color: blueviolet;
     flex: 1 0 auto;
 }
 
+
+/* styling for the footer */
 footer {
     background-color: coral;
 }
