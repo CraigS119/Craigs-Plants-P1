@@ -94,3 +94,29 @@ main {
 footer {
     background-color: coral;
 }
+
+
+/*Media query styling*/
+
+/* media query for tablets or larger*/
+@media screen and (min-width: 768px) {
+    /*navbar styling (expand on larger screens)*/
+    nav {
+        display: block;
+        position:relative;
+        border-bottom: none;
+        width: fit-content;
+        padding-right: 1 rem;
+    }
+
+    /* this puts nav menu in a row */
+    #nav-menu {
+        display: flex;
+    }
+
+    /* this puts some space between menu elements */
+    #nav-menu > li {
+        padding-left: 1rem;
+    }
+    
+}
