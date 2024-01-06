@@ -32,7 +32,7 @@ header {
     /* This makes all header elements align evenly on top*/
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
 }
 
 header a {
@@ -41,7 +41,6 @@ header a {
     font-family: 'pacifico', sans-serif;
 }
 
-*                                   *
 /* this section styles the nav bar */
 #nav-menu {
     font-size: 115%;
@@ -87,6 +86,7 @@ nav {
 main {
     background-color: blueviolet;
     flex: 1 0 auto;
+    margin-top: 68px;
 }
 
 
