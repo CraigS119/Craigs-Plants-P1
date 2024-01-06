@@ -56,7 +56,7 @@ header a {
     border-bottom: 2px solid #1e6639;
 }
 
-/* nav bar styling and check box/toggle*/
+/* nav bar styling */
 nav {
     position:absolute;
     background-color: #ffffff;
@@ -68,10 +68,14 @@ nav {
     top: 100%;
 }
 
+/* nav check box/toggle */
 #nav-toggle:checked~nav {
     display:block
 }
 
+#nav-toggle {
+    display:none;
+}
 
 
 /* styling for the main content */
