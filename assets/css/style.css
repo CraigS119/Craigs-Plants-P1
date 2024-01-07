@@ -85,9 +85,16 @@ nav {
 /* styling for the main content */
 
 main {
-    background-color: blueviolet;
     flex: 1 0 auto;
     margin-top: 62px;
+}
+
+/* Hero Section */
+#hero {
+    height: 60vh;
+    width: 100vw;
+    background-color: lightgreen;
+
 }
 
 
@@ -159,7 +166,7 @@ footer {
 
     /*enlarges social-title on bigger screens*/
     #social-title{
-        font-size: 110%;
+        font-size: 120%;
     }
 
     
