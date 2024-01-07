@@ -114,8 +114,8 @@ main {
 /*meet me section */
 #meet-me {
     padding: 10px 40px;
-    color:#ffffff;
-    background-color: #1e6639;
+    color:#1e6639;
+    background-color:#ffffff;
     /*
     display: flex;
     flex-direction: column;
@@ -222,8 +222,9 @@ footer {
         font-size: 120%;
     }
 
-    
-}
+        /* meet me section */
+    }
+
 
 /* media query for laptops or larger*/
 @media screen and (min-width: 992px) {
@@ -231,4 +232,24 @@ footer {
     #nav-menu a:hover {
         border-bottom: #1e6639;
     }
+
+    /* meet-me section */
+         #meet-me {
+             display: flex;
+             flex-direction: row;
+         }
+    
+         #meet-me>div {
+            flex: 1;
+         }
+    
+         #mm-image {
+            order: 2;
+            align-self: flex-end;
+         }
+    
+         #mm-text {
+             order: 1;
+            align-self: flex-start;
+         }
 }
