@@ -91,10 +91,24 @@ main {
 
 /* Hero Section */
 #hero {
-    height: 60vh;
-    width: 100vw;
+    height: 500px;
+    width: 100%;
     background: url(../images/hero.webp) no-repeat center center/cover;
+    position:relative;
 
+}
+
+#cover-text {
+    background-color: rgba(30, 102, 57, .4);
+    color: #ffffff;
+    position: absolute;
+    top: 7%;
+    width: 65%;
+    left: 50px;
+    padding: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 
