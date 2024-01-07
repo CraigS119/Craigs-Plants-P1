@@ -93,7 +93,7 @@ main {
 #hero {
     height: 60vh;
     width: 100vw;
-    background-color: lightgreen;
+    background: url(../images/hero.webp) no-repeat center center/cover;
 
 }
 
