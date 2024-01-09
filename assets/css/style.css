@@ -112,18 +112,18 @@ main {
 }
 
 /*meet me section */
-#meet-me {
+#meet-craig {
     padding: 10px 40px;
     color:#1e6639;
     background-color:#ffffff;
 }
 
-#meet-me-text {
+#meet-craig-text {
     margin: 10px;
     text-align: center; 
 }
 
-#meet-me-text h1 {
+#meet-craig-text h1 {
     font-size: 280%;
 }
 
@@ -139,7 +139,7 @@ main {
     max-height: 300px;
 }
 
-#meet-me-image {
+#meet-craig-image {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -214,9 +214,16 @@ footer {
         margin-top: 81px;
     }
 
-         /* meet me section */
-         
+         /* meet craig section */
+    /* makes meet craig image slightly wider */
+     #circle-image-bg {
+    border-radius: 10%;
+    max-width: 450px;
+    max-height: 300px;
+     }
 
+
+    /* footer*/
     /*enlarges social-title on bigger screens*/
     #social-title{
         font-size: 1.5rem;
@@ -234,21 +241,22 @@ footer {
     }
 
     /* meet-me section */
-         #meet-me {
+         #meet-craig {
              display: flex;
              flex-direction: row;
+             align-items: center;
          }
     
-         #meet-me>div {
+         #meet-craig>div {
             flex: 1;
          }
     
-         #mm-image {
+         #meet-craig-image {
             order: 2;
             align-self: flex-end;
          }
     
-         #mm-text {
+         #meet-craig-text {
              order: 1;
             align-self: flex-start;
          }
