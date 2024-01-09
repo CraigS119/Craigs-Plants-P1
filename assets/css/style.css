@@ -232,7 +232,7 @@ footer {
 
          /* meet craig section */
     /* makes meet craig image slightly wider */
-     #craig-pic {
+     #craig-pic, #garden-pic {
     border-radius: 10%;
     max-width: 450px;
     max-height: 300px;
@@ -256,7 +256,7 @@ footer {
         border-bottom: 2px solid #1e6639;
     }
 
-    /* meet-me section */
+    /* meet-craig section */
          #meet-craig {
              display: flex;
              flex-direction: row;
@@ -276,6 +276,27 @@ footer {
              order: 1;
             align-self: flex-start;
          }
+
+        /* my passion section */
+        #my-passion {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+        }
+    
+        #my-passion>div {
+            flex: 1;
+        }
+    
+        #my-passion-image {
+            order: 1;
+            align-self: flex-start;
+        }
+    
+        #my-passion-text {
+            order: 2;
+            align-self: flex-end;
+        }
 
          /*Footer*/
          /*This enlarges the footer title*/
