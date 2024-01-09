@@ -118,12 +118,12 @@ main {
     background-color:#ffffff;
 }
 
-#mm-text {
+#meet-me-text {
     margin: 10px;
     text-align: center; 
 }
 
-#mm-text h1 {
+#meet-me-text h1 {
     font-size: 280%;
 }
 
@@ -139,7 +139,7 @@ main {
     max-height: 300px;
 }
 
-#mm-image {
+#meet-me-image {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -225,6 +225,7 @@ footer {
 /* media query for laptops or larger*/
 @media screen and (min-width: 992px) {
     /* gives nav-menu elements a line underneath when hovered on */
+        /* header a: hover - need to px and solid*/
     #nav-menu a:hover {
         border-bottom: #1e6639;
     }
