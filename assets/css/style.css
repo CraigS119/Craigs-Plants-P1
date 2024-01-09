@@ -160,21 +160,22 @@ footer {
 
 #social-title {
     margin-bottom: 10px;
+    margin-top: 10px;
     color: white;
     font-size: 90%;
 }
 
 #social-networks {
     list-style: none;
-    padding: 2.5%;
+    padding: 1.5%;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     text-align: center;
 }
 
 #social-networks i {
-    font-size: 150%;
-    padding: 5%;
+    font-size: 200%;
+    padding: 10px 25px;
     color: #ffffff;
 }
 
@@ -213,19 +214,21 @@ footer {
         margin-top: 81px;
     }
 
+         /* meet me section */
+         
+
     /*enlarges social-title on bigger screens*/
     #social-title{
-        font-size: 120%;
+        font-size: 1.5rem;
     }
 
-        /* meet me section */
+       
     }
 
 
 /* media query for laptops or larger*/
 @media screen and (min-width: 992px) {
     /* gives nav-menu elements a line underneath when hovered on */
-        /* header a: hover - need to px and solid*/
     #nav-menu a:hover {
         border-bottom: 2px solid #1e6639;
     }
@@ -248,5 +251,11 @@ footer {
          #mm-text {
              order: 1;
             align-self: flex-start;
+         }
+
+         /*Footer*/
+         /*This enlarges the footer title*/
+         #social-title {
+            font-size: 2rem;
          }
 }
