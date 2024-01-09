@@ -131,10 +131,22 @@ main {
     font-size: 280%;
 }
 
-#craig-pic, #garden-pic {
+#craig-pic {
     width: 90vw;
     height: 90vh;
     background: url(../images/meet-me.webp) no-repeat center center/cover;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    /*makes the image a circle*/
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#garden-pic {
+    width: 90vw;
+    height: 90vh;
+    background: url(../images/garden-pic.webp) no-repeat center center/cover;
     margin-bottom: 10px;
     margin-top: 10px;
     /*makes the image a circle*/
