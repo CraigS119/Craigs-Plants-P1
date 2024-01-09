@@ -227,7 +227,7 @@ footer {
     /* gives nav-menu elements a line underneath when hovered on */
         /* header a: hover - need to px and solid*/
     #nav-menu a:hover {
-        border-bottom: #1e6639;
+        border-bottom: 2px solid #1e6639;
     }
 
     /* meet-me section */
