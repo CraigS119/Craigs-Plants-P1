@@ -127,7 +127,7 @@ main {
     text-align: center; 
 }
 
-#meet-craig-text h1, #my-passion-text h1 {
+#meet-craig-text h2, #my-passion-text h2 {
     font-size: 280%;
 }
 
@@ -202,50 +202,49 @@ footer {
 /* media query for tablets or larger*/
 @media screen and (min-width: 768px) {
     /*navbar styling (expand on larger screens)*/
-    nav {
-        display: block;
-        position:relative;
-        border-bottom: none;
-        width: fit-content;
-        padding-right: 1 rem;
-    }
+        nav {
+            display: block;
+            position:relative;
+            border-bottom: none;
+            width: fit-content;
+            padding-right: 1 rem;
+        }
 
-    /* this puts nav menu in a row */
-    #nav-menu {
-        display: flex;
-    }
+        /* this puts nav menu in a row */
+        #nav-menu {
+            display: flex;
+        }
 
-    /* this puts some space between menu elements */
-    #nav-menu > li {
-        padding-left: 1rem;
-    }
-    
-    /*this hides the burger icon when on bigger screens*/
-    .nav-toggle-label {
-        display: none;
-    }
+        /* this puts some space between menu elements */
+        #nav-menu > li {
+            padding-left: 1rem;
+        }
+        
+        /*this hides the burger icon when on bigger screens*/
+        .nav-toggle-label {
+            display: none;
+        }
 
-    /* this pushes the main content down further due to expanding nav menu */
-    main {
-        margin-top: 81px;
-    }
+        /* this pushes the main content down further due to expanding nav menu */
+        main {
+            margin-top: 81px;
+        }
 
-         /* meet craig section */
-    /* makes meet craig image slightly wider */
-     #craig-pic, #garden-pic {
-    border-radius: 10%;
-    max-width: 450px;
-    max-height: 300px;
-     }
+            /* meet craig section */
+        /* makes meet craig image slightly wider */
+        #craig-pic, #garden-pic {
+        border-radius: 10%;
+        max-width: 450px;
+        max-height: 300px;
+        }
 
 
-    /* footer*/
-    /*enlarges social-title on bigger screens*/
-    #social-title{
-        font-size: 1.5rem;
-    }
+        /* footer*/
+        /*enlarges social-title on bigger screens*/
+        #social-title{
+            font-size: 1.5rem;
+        }
 
-       
     }
 
 
