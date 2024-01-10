@@ -46,37 +46,43 @@
         <!-- This is the contact form-->
         <section id="contact-me">
             <form id="contact-me-form" method="POST" action="https://formdump.codeinstitute.net">
+                    <!-- First Name-->
                     <label for="first_name">First Name</label>
                     <input type="text" name="first_name" id="first_name" class="text-input" required>
                         <br>
+                    <!-- Last Name-->
                     <label for="last_name">Last Name</label>
                     <input type="text" name="last_name" id="last_name" class="text-input" required>
                         <br>
+                    <!-- Email Address-->
                     <label for="email_address">Email Address</label>
                     <input type="email" name="email_address" id="email_address" class="text-input" required>
                         <br>
+                    <!-- This is the question for the garden slider-->
                     <label for="gardening-experience">How would you rate your gardening knowledge?</label>
                         <br />
-                    <!-- This is the section for the garden slider-->
+                    <!-- This is garden slider-->
                     <div id="garden-slider">
-                    <p>Beginner</p>
-                    <input type="range" id="gardening-experience" name="gardening-experience" list="markers" min="1" max="10" value="5" step="1">
-                    <datalist id="gardening-experience">
-                        <option>Beginner</option>
-                        <option>Novice</option>
-                        <option>Intermediate</option>
-                        <option>Skilled</option>
-                        <option>Proficient</option>
-                        <option>Advanced</option>
-                        <option>Expert</option>
-                    </datalist>
-                    <p>Expert</p>
+                        <p>Beginner</p>
+                        <input type="range" id="gardening-experience" name="gardening-experience" list="markers" min="1" max="10" value="5" step="1">
+                        <datalist id="gardening-experience">
+                            <option>Beginner</option>
+                            <option>Novice</option>
+                            <option>Intermediate</option>
+                            <option>Skilled</option>
+                            <option>Proficient</option>
+                            <option>Advanced</option>
+                            <option>Expert</option>
+                        </datalist>
+                        <p>Expert</p>
                     </div>
                         <br>
+                    <!-- This is the message section-->
                     <label for="message">How can I help?</label>
                         <br>
                     <textarea name="message" rows="10" cols="30" id="message" required></textarea>
                         <br>
+                    <!-- This is submit form button-->
                     <button type="submit" class="submit-form">Send</button>
             </form>
         </section>
