@@ -164,7 +164,7 @@ main {
 /* Styling for gallery title and introduction text */
 #gallery-text {
     text-align: center;
-    padding: 20px;
+    padding: 10px 10px;
 }
 
 #gallery-title {
@@ -173,8 +173,7 @@ main {
 }
 
 #gallery-description {
-    font-size: 1.2em;
-    line-height: 1.6;
+    font-size: 1em;
 }
 
 /* Styling for gallery images */
@@ -182,6 +181,7 @@ main {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-bottom: 20px;
 }
 /* Style for each gallery section */
 .gallery-section {
