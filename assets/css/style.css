@@ -86,20 +86,19 @@ nav {
 }
 
 
-/* styling for the main content */
-
+/* styling for the main content*/
 main {
     flex: 1 0 auto;
     margin-top: 80px;
 }
 
+/* Home page*/
 /* Hero Section */
 #hero {
     height: 500px;
     width: 100%;
     background: url(../images/hero.webp) no-repeat center center/cover;
     position:relative;
-
 }
 
 #cover-text {
@@ -159,6 +158,52 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+/* Styling for Gallery Page */
+/* Styling for gallery title and introduction text */
+#gallery-text {
+    text-align: center;
+    padding: 20px;
+}
+
+#gallery-title {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+#gallery-description {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+/* Styling for gallery images */
+#gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+/* Style for each gallery section */
+.gallery-section {
+    display: inline-block;
+    margin: 10px;
+    border: 2px solid #1e6639;
+    text-align: center;
+}
+
+/* Style for each gallery image */
+.gallery-photo img {
+    max-width: 300px;
+    max-height: 300px;
+    object-fit: cover;
+}
+
+/* Style for text underneath each image */
+.gallery-text p {
+    max-width: 280px;
+    height: 50px;
+    margin: 0 auto;
+    word-wrap: break-word;
 }
 
 
