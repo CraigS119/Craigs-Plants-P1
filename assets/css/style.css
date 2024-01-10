@@ -250,52 +250,37 @@ footer {
 
 /* media query for laptops or larger*/
 @media screen and (min-width: 992px) {
+    /* Header section */
     /* gives nav-menu elements a line underneath when hovered on */
     #nav-menu a:hover {
         border-bottom: 2px solid #1e6639;
     }
-
-    /* meet-craig section */
-         #meet-craig {
-             display: flex;
-             flex-direction: row;
-             align-items: center;
-         }
+    /* Main Content */
+    /* meet-craig & my-passion section */
+           #meet-craig,
+           #my-passion {
+               display: flex;
+               flex-direction: row;
+               align-items: center;
+           }
     
-         #meet-craig>div {
-            flex: 1;
-         }
+           #meet-craig>div,
+           #my-passion>div {
+               flex: 1;
+           }
     
-         #meet-craig-image {
-            order: 2;
-            align-self: flex-end;
-         }
+           /* Specific styles for each meet-me section */
+           #meet-craig-image,
+           #my-passion-text {
+               order: 2;
+               align-self: flex-end;
+           }
     
-         #meet-craig-text {
-             order: 1;
-            align-self: flex-start;
-         }
-
-        /* my passion section */
-        #my-passion {
-            display: flex;
-            flex-direction: row;
-            align-items: center;
-        }
-    
-        #my-passion>div {
-            flex: 1;
-        }
-    
-        #my-passion-image {
-            order: 1;
-            align-self: flex-start;
-        }
-    
-        #my-passion-text {
-            order: 2;
-            align-self: flex-end;
-        }
+           #meet-craig-text,
+           #my-passion-image {
+               order: 1;
+               align-self: flex-start;
+           }
 
          /*Footer*/
          /*This enlarges the footer title*/
