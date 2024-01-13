@@ -230,6 +230,11 @@ main {
     border: 5px solid #ffffff;
 }
 
+/*Styling for top section above form - title and p text" */
+#contact-me-intoduction {
+    margin-bottom: 20px;
+}
+
 /*Styling for input elements on contact form*/
 .input {
 display: flex;
