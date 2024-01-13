@@ -207,14 +207,22 @@ main {
 }
 
 /* Styling for Contact Me Page */
-#contact-background {
+/* Video for page background */
+#video-bg {
+        position: fixed;
+        width: 100vw;
+        height: 100vh;
+        object-fit: cover;
+        z-index: -1;
+}
+
+#contact-content {
     display: flex;
     position: relative;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     padding: 0px 40px;
-    min-height:100vh;
 }
 
 #contact-me-intoduction {
