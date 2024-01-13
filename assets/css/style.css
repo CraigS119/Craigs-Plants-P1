@@ -233,12 +233,24 @@ main {
 display: flex;
 justify-content: center;
 align-items: center;
-flex-direction: row;
+flex-direction: column;
 margin: 0 8%;
+}
+
+.input p {
+    text-align: center;
 }
 
 #contact-me-intoduction {
 text-align: center;
+}
+
+#garden-slider {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: row;
+margin: 0 8%;
 }
 
 
