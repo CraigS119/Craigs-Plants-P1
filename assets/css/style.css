@@ -206,7 +206,20 @@ main {
     word-wrap: break-word;
 }
 
+/* Styling for Contact Me Page */
+#contact-background {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0px 40px;
+    min-height:100vh;
+}
 
+#contact-me-intoduction {
+text-align: center;
+}
 
 /* styling for the footer */
 footer {
