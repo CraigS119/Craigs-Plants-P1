@@ -216,6 +216,7 @@ main {
         z-index: -1;
 }
 
+/*Styling for contact form*/
 #contact-content {
     display: flex;
     position: relative;
@@ -229,6 +230,7 @@ main {
     border: 5px solid #ffffff;
 }
 
+/*Styling for input elements on contact form*/
 .input {
 display: flex;
 justify-content: center;
@@ -237,14 +239,17 @@ flex-direction: column;
 margin: 0 8%;
 }
 
+/*styling for questions that aren't labels*/
 .input p {
     text-align: center;
 }
 
+/*Styling for top section above form*/
 #contact-me-intoduction {
 text-align: center;
 }
 
+/*Styling for slider rating garden knowledge in contact form*/
 #garden-slider {
 display: flex;
 justify-content: center;
@@ -253,8 +258,10 @@ flex-direction: row;
 margin: 0 8%;
 }
 
-
-
+/* Styling for numbers next to slider */
+#garden-slider p {
+    margin: 0 10px;
+}
 
 /* styling for the footer */
 footer {
