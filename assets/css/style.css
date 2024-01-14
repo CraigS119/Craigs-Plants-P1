@@ -19,9 +19,10 @@ body {
 
 h1, h2, h3 {
     font-family: 'pacifico', sans-serif;
+    font-weight: 300;
 }
 
-/* styling for header */
+/* Styling for header */
 header {
     background-color: #ffffff;
     padding: 0 1rem;
@@ -209,9 +210,9 @@ main {
 /* Styling for Contact Me Page */
 /* Video for page background */
 #video-bg {
-        position: fixed;
-        width: 100vw;
-        height: 100vh;
+        position:fixed;
+        width: 100%;
+        height: 100%;
         object-fit: cover;
         z-index: -1;
 }
