@@ -368,23 +368,21 @@ footer {
                align-items: center;
            }
     
-           #meet-craig>div,
-           #my-passion>div {
-               flex: 1;
-           }
+        /* Specific styles for meet-craig section */
+        #meet-craig-image,
+        #meet-craig-text {
+            flex: 1;
+        }
     
-           /* Specific styles for each meet-me section */
-           #meet-craig-image,
-           #my-passion-text {
-               order: 2;
-               align-self: flex-end;
-           }
+        /* Specific styles for my-passion section */
+        #my-passion-image {
+            order: -1;
+            flex: 1;
+        }
     
-           #meet-craig-text,
-           #my-passion-image {
-               order: 1;
-               align-self: flex-start;
-           }
+        #my-passion-text {
+            flex: 1;
+        }
 
          /*Footer*/
          /*This enlarges the footer title*/
