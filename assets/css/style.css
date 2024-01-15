@@ -380,6 +380,7 @@ footer {
                display: flex;
                flex-direction: row;
                align-items: center;
+               margin: 0 50px
            }
     
         /* Specific styles for meet-craig section */
@@ -398,11 +399,23 @@ footer {
             flex: 1;
         }
 
+        /* allows pictures to enlarge on bigger screens */
         #craig-pic,
         #garden-pic {
-            border-radius: 10%;
+            border-radius: 5%;
             max-width: 600px;
-            max-height: 300px;
+            max-height: 350px;
+        }
+
+        /* Gap for text next to larger image */
+        #meet-craig-text p,
+        #my-passion-text p {
+        margin: 0 60px
+        }
+
+        /* Styling for some extra space below hero section on larger screens */
+        #meet-craig {
+            margin-top: 25px
         }
 
          /*Footer*/
