@@ -403,14 +403,14 @@ footer {
         #craig-pic,
         #garden-pic {
             border-radius: 5%;
-            max-width: 600px;
+            max-width: 500px;
             max-height: 350px;
         }
 
         /* Gap for text next to larger image */
         #meet-craig-text p,
         #my-passion-text p {
-        margin: 0 60px
+        margin: 0 20px
         }
 
         /* Styling for some extra space below hero section on larger screens */
@@ -423,4 +423,27 @@ footer {
          #social-title {
             font-size: 2rem;
          }
+}
+
+/* media query for desktops or larger*/
+@media screen and (min-width: 1440px) {
+        #craig-pic,
+        #garden-pic {
+            border-radius: 5%;
+            max-width: 650px;
+            max-height: 400px;
+    }
+        #meet-craig-text,
+        #my-passion-text {
+            font-size: 1.5rem;
+            text-align: center;
+        }
+
+        #hero {
+        height: 600px;
+        }
+
+        #cover-text {
+            font-size: 1.5rem;
+        }
 }
