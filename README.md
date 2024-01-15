@@ -1,4 +1,8 @@
 <!-- Project Introduction -->
+# Craig's Plants
+
+Craig's Plants is a website aimed at helping fellow gardeners get the most out of their garden. Craig has a wealth of knowledge and is happy to help those who need a bit of inspiration or advice. The website aims to inspire by showcasing some of the different gardens that Craig has worked on, as well as being a friendly touchpoint for beginners or experienced gardeners to get friendly advice. View the live site [here](https://craigs119.github.io/Craigs-Plants-P1/)
+
 Title
 Short blurb about the project
 Project image- (amiresponsive)
