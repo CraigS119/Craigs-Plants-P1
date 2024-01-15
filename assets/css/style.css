@@ -115,10 +115,16 @@ main {
 }
 
 /*meet me section */
-#meet-craig, #my-passion {
+#meet-craig {
     padding: 10px;
     color:#1e6639;
     background-color:#ffffff;
+}
+
+#my-passion {
+    padding: 25px 10px;
+    color: #1e6639;
+    background-color: #ffffff;
 }
 
 #meet-craig-text, #my-passion-text {
