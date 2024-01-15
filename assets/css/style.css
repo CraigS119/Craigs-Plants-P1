@@ -110,12 +110,13 @@ main {
     position: absolute;
     top: 7%;
     left: 50%;
-    transform: translateX(-50%)
+    transform: translateX(-50%);
+    width: 85%;
 }
 
 /*meet me section */
 #meet-craig, #my-passion {
-    padding: 10px 40px;
+    padding: 10px;
     color:#1e6639;
     background-color:#ffffff;
 }
