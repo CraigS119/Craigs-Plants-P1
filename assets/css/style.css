@@ -287,7 +287,7 @@ footer {
 }
 
 #social-title {
-    margin-bottom: 10px;
+    /*margin-bottom: 10px;*/
     margin-top: 10px;
     color: white;
     font-size: 90%;
@@ -295,7 +295,7 @@ footer {
 
 #social-networks {
     list-style: none;
-    padding: 1.5%;
+    padding: 0 1.5%;
     display: flex;
     justify-content: center;
     text-align: center;
