@@ -398,6 +398,13 @@ footer {
             flex: 1;
         }
 
+        #craig-pic,
+        #garden-pic {
+            border-radius: 10%;
+            max-width: 600px;
+            max-height: 300px;
+        }
+
          /*Footer*/
          /*This enlarges the footer title*/
          #social-title {
