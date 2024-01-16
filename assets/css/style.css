@@ -278,12 +278,15 @@ display: flex;
 justify-content: center;
 align-items: center;
 flex-direction: row;
-margin: 0 8%;
 }
 
 /* Styling for numbers next to slider */
-#garden-slider p {
-    margin: 0 10px;
+#slide-left {
+    margin-right: 10px;
+}
+
+#slide-right {
+    margin-left: 10px;
 }
 
 /* Styling for send button */
@@ -294,7 +297,13 @@ margin: 0 8%;
     font-family: 'poppins', sans-serif;
     font-size: 115%;
     border: 2px solid #ffffff;
-    width: 90%
+    width: 90%;
+    margin: 20px 0;
+}
+
+/* Styling to add space between label and input */
+#contact-me-form div label {
+    margin-bottom: 5px;
 }
 
 /* styling for the footer */

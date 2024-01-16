@@ -70,12 +70,12 @@
                             <!-- Garden Experience-->
                             <div class="input">
                                 <!-- This is the question for the garden slider-->
-                                <!--<label for="gardening-experience" id="garden-question">How would you rate your gardening knowledge?</label>-->
-                                <p>How would you rate your gardening knowledge?</p>
-                                    <br />
+                                <label for="garden-slider">How would you rate your gardening knowledge?</label>
+                                <!--<p>How would you rate your gardening knowledge?</p>
+                                    <br />-->
                                 <!-- This is garden slider-->
                                 <div id="garden-slider">
-                                    <p>1</p>
+                                    <p id="slide-left">1</p>
                                     <input type="range" id="gardening-experience" name="gardening-experience" list="markers" min="1" max="10" value="5" step="1">
                                     <datalist id="gardening-experience">
                                         <option>1</option>
@@ -89,14 +89,13 @@
                                         <option>9</option>
                                         <option>10</option>
                                     </datalist>
-                                    <p>10</p>
+                                    <p id="slide-right">10</p>
                                 </div>
                             </div>
                                 <br>
                             <!-- This is the message section-->
                             <div class="input">
                             <label for="message">How can I help?</label>
-                                <br>
                             <textarea name="message" rows="10" cols="30" id="message" required></textarea>
                                 <br>
                             </div>
