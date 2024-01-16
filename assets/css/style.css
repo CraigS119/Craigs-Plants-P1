@@ -243,6 +243,11 @@ main {
     text-align: center;
 }
 
+#contact-me-title {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
 /*Styling for input elements on contact form*/
 .input {
 display: flex;
