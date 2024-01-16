@@ -261,7 +261,7 @@ text-align: left;
 /* Styling for message area */
 #message {
     width: 90%;
-    height: 80px;
+    height: 200px;
     padding: 10px;
     box-sizing: border-box;
 } 
