@@ -167,6 +167,7 @@ main {
     position: relative;
     overflow: hidden;
     width: 90%;
+    height: 55%;
     padding-top: 50%;
     margin: 1.5% auto;
     max-width: 863px;
