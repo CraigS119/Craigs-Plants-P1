@@ -5,6 +5,9 @@ Craig's Plants is a website aimed at helping fellow gardeners get the most out o
 
 ![Craig's Plants website on various screen sizes](./readme/media/web-mock-up.png)
 
+GitHub Profile: <https://github.com/CraigS119/Craigs-Plants-P1> <br>
+Deployed Site: <https://craigs119.github.io/Craigs-Plants-P1/contact-me.html>
+
 
 Title
 Short blurb about the project
