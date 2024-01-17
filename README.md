@@ -9,20 +9,20 @@ GitHub Profile: <https://github.com/CraigS119/Craigs-Plants-P1> <br>
 Deployed Site: <https://craigs119.github.io/Craigs-Plants-P1/contact-me.html>
 
 
-Title
-Short blurb about the project
-Project image- (amiresponsive)
-Link to deployed site
-Optional - Shields.io badges
-
 <!-- Contents -->
 Table of contents
 
 <!-- User Experience -->
-Initial discussion
-Key information
-User stories
+## User Experience
 
+### Goal of the website
+
+To inspire and educate both beginner and intermediate gardeners about their gardens. It will aim to provide users with various horticultural tips and advice, using visual aids to illustrate the potential appearance of their gardens.
+Initial discussion
+
+### Key information for the site
+
+* Who is Craig and why is he trustworthy
 
 <!--  Design -->
 Colour scheme
