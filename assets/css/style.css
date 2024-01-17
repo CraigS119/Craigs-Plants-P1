@@ -137,6 +137,12 @@ main {
     font-size: 280%;
 }
 
+/* adds breathing room below title */
+#my-passion-text p,
+#benefits-text p {
+    padding-top: 5px
+}
+
 #craig-pic {
     width: 90vw;
     height: 90vh;
