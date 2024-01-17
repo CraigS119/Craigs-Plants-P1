@@ -115,24 +115,24 @@ main {
 }
 
 /*meet me section */
-#meet-craig {
+#meet-craig, #my-passion {
     padding: 10px;
     color:#1e6639;
     background-color:#ffffff;
 }
 
-#my-passion {
+#benefits-section {
     padding: 25px 10px;
     color: #1e6639;
     background-color: #ffffff;
 }
 
-#meet-craig-text, #my-passion-text {
+#meet-craig-text, #my-passion-text, #benefits-text {
     margin: 10px;
     text-align: center; 
 }
 
-#meet-craig-text h2, #my-passion-text h2 {
+#meet-craig-text h2, #my-passion-text h2, #benefits-text h2 {
     font-size: 280%;
 }
 
@@ -160,7 +160,12 @@ main {
     max-height: 300px;
 }
 
-#meet-craig-image, #my-passion-image {
+#benefits-video {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+#meet-craig-image, #my-passion-image, #benefits-video {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -411,10 +416,14 @@ footer {
     /* meet-craig & my-passion section */
            #meet-craig,
            #my-passion {
-               display: flex;
-               flex-direction: row;
-               align-items: center;
-               margin: 0 50px
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            margin: 0 50px
+           }
+
+           #benefits-section {
+            margin: 0 50px  
            }
     
         /* Specific styles for meet-craig section */
@@ -443,7 +452,8 @@ footer {
 
         /* Gap for text next to larger image */
         #meet-craig-text p,
-        #my-passion-text p {
+        #my-passion-text p,
+        #benefits-text p {
         margin: 0 20px
         }
 
@@ -468,7 +478,8 @@ footer {
             max-height: 400px;
     }
         #meet-craig-text,
-        #my-passion-text {
+        #my-passion-text,
+        #benefits-text {
             font-size: 1.5rem;
             text-align: center;
         }
