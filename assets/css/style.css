@@ -90,7 +90,7 @@ nav {
 /* styling for the main content*/
 main {
     flex: 1 0 auto;
-    margin-top: 82px;
+    margin-top: 80px;
 }
 
 /* Home page*/
@@ -411,12 +411,7 @@ footer {
             display: none;
         }
 
-        /* this pushes the main content down further due to expanding nav menu */
-        main {
-            margin-top: 81px;
-        }
-
-            /* meet craig section */
+        /* meet craig section */
         /* makes meet craig image slightly wider */
         #craig-pic, #garden-pic {
         border-radius: 10%;
