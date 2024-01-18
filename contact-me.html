@@ -8,7 +8,7 @@
     <meta name="description"
         content="Craig's Plants is a gardening blog for beginner or casual gardeners to learn or get inspired">
     <meta name="keywords"
-        content="Plants, Horticulture , Gardening, Garden beginners, Summer plants, Garden tips, Plant Blog, Gardening blog">
+        content="Plants, Horticulture, Gardening, Garden beginners, Summer plants, Garden tips, Plant Blog, Gardening blog">
     <title>Craig's Plants</title>
     <!-- Favicon-->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
@@ -37,72 +37,74 @@
 
     <main id="contact-bg">
         <!-- This is the top text above the contact me form-->
-            <section id="contact-content">
-                <div id="contact-me-introduction">
-                    <h1 id="contact-me-title"> Contact Me </h1>
-                    <p id="contact-me-questions"><em>inspired but a little lost?</em></p>
-                    <p>Feel free to contact me through the form below, and we can work together to turn your garden into your own green haven!</p>
-                </div>
-                
-                <!-- This is the contact form-->
-                <div id="contact-me">
-                    <form id="contact-me-form" method="POST" action="https://formdump.codeinstitute.net">
-                            <!-- First Name-->
-                            <div class="input">
-                            <label for="first_name">First Name</label>
-                            <input type="text" name="first_name" id="first_name" class="text-input" required>
-                            </div>
-                                <br>
-                            <!-- Last Name-->
-                            <div class="input">
-                            <label for="last_name">Last Name</label>
-                            <input type="text" name="last_name" id="last_name" class="text-input" required>
-                            </div>
-                                <br>
-                            <!-- Email Address-->
-                            <div class="input">
-                            <label for="email_address">Email Address</label>
-                            <input type="email" name="email_address" id="email_address" class="text-input" required>
-                            </div>
-                                <br>
-                            <!-- Garden Experience-->
-                            <div class="input">
-                                <!-- This is the question for the garden slider-->
-                                <label for="gardening-experience">Rate your gardening knowledge (1 to 10):</label>
-                                <!-- This is garden slider-->
-                                <div id="garden-slider">
-                                    <p id="slide-left">1</p>
-                                    <input type="range" id="gardening-experience" name="gardening-experience" list="markers" min="1" max="10" value="5" step="1">
-                                    <datalist id="markers">
-                                        <option>1</option>
-                                        <option>2</option>
-                                        <option>3</option>
-                                        <option>4</option>
-                                        <option>5</option>
-                                        <option>6</option>
-                                        <option>7</option>
-                                        <option>8</option>
-                                        <option>9</option>
-                                        <option>10</option>
-                                    </datalist>
-                                    <p id="slide-right">10</p>
-                                </div>
-                            </div>
-                                <br>
-                            <!-- This is the message section-->
-                            <div class="input">
-                            <label for="message">How can I help?</label>
-                            <textarea name="message" rows="10" cols="30" id="message" required></textarea>
-                                <br>
-                            </div>
-                            <!-- This is submit form button-->
-                            <div class="input">
-                            <button type="submit" id="submit-form">Send</button>
-                            </div>
-                    </form>
-                </div>
-            </section>
-        </main>
+        <section id="contact-content">
+            <div id="contact-me-introduction">
+                <h1 id="contact-me-title">Contact Me</h1>
+                <p id="contact-me-questions"><em>inspired but a little lost?</em></p>
+                <p>Feel free to contact me through the form below, and we can work together to turn your garden into
+                    your own green haven!</p>
+            </div>
+
+            <!-- This is the contact form-->
+            <div id="contact-me">
+                <form id="contact-me-form" method="POST" action="https://formdump.codeinstitute.net">
+                    <!-- First Name-->
+                    <div class="input">
+                        <label for="first_name">First Name</label>
+                        <input type="text" name="first_name" id="first_name" class="text-input" required>
+                    </div>
+                    <br>
+                    <!-- Last Name-->
+                    <div class="input">
+                        <label for="last_name">Last Name</label>
+                        <input type="text" name="last_name" id="last_name" class="text-input" required>
+                    </div>
+                    <br>
+                    <!-- Email Address-->
+                    <div class="input">
+                        <label for="email_address">Email Address</label>
+                        <input type="email" name="email_address" id="email_address" class="text-input" required>
+                    </div>
+                    <br>
+                    <!-- Garden Experience-->
+                    <div class="input">
+                        <!-- This is the question for the garden slider-->
+                        <label for="gardening-experience">Rate your gardening knowledge (1 to 10):</label>
+                        <!-- This is garden slider-->
+                        <div id="garden-slider">
+                            <p id="slide-left">1</p>
+                            <input type="range" id="gardening-experience" name="gardening-experience" list="markers"
+                                min="1" max="10" value="5" step="1">
+                            <datalist id="markers">
+                                <option>1</option>
+                                <option>2</option>
+                                <option>3</option>
+                                <option>4</option>
+                                <option>5</option>
+                                <option>6</option>
+                                <option>7</option>
+                                <option>8</option>
+                                <option>9</option>
+                                <option>10</option>
+                            </datalist>
+                            <p id="slide-right">10</p>
+                        </div>
+                    </div>
+                    <br>
+                    <!-- This is the message section-->
+                    <div class="input">
+                        <label for="message">How can I help?</label>
+                        <textarea name="message" rows="10" cols="30" id="message" required></textarea>
+                        <br>
+                    </div>
+                    <!-- This is submit form button-->
+                    <div class="input">
+                        <button type="submit" id="submit-form">Send</button>
+                    </div>
+                </form>
+            </div>
+        </section>
+    </main>
     <footer>
         <div class="social-section">
             <h2 id="social-title">Follow me on social media</h2>
@@ -132,6 +134,6 @@
         <!-- script for importing font awesome icons-->
         <script src="https://kit.fontawesome.com/c01b7b45c9.js" crossorigin="anonymous"></script>
     </footer>
-    </body>
-    
-    </html>
+</body>
+
+</html>
