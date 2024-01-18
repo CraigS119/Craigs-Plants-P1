@@ -4,7 +4,8 @@ Craig's Plants is a website aimed at helping fellow gardeners get the most out o
 
 ![Craig's Plants website on various screen sizes](read-me/media/web-mock-up.png)
 
-GitHub Profile: <https://github.com/CraigS119/Craigs-Plants-P1> <br>
+GitHub Profile: <https://github.com/CraigS119/Craigs-Plants-P1> 
+<br>
 Deployed Site: <https://craigs119.github.io/Craigs-Plants-P1/contact-me.html>
 
 ## Table of contents
@@ -65,8 +66,8 @@ To inspire and educate both beginner and intermediate gardeners about their gard
 ### Design
 
 #### Color Scheme
-The color scheme chosen for this website was green (#1e6639) and white (#ffffff). 
 
+The color scheme chosen for this website consists of green (#1e6639) and white (#ffffff). The color green is naturally associated with plants, gardens, and positive functions such as productivity and work. A darker shade was specifically chosen to create a strong contrast with the white background. This color scheme complements images of gardens and plants, providing users with a sense of horticulture when navigating the website
 
 ![Color scheme used on website](read-me/media/color-scheme.png)
 
