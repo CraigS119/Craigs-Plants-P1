@@ -85,11 +85,9 @@ The background image for the Contact Me section was also sourced from Canva's st
 
 A general wireframe created on Canva was used in order to identify the look and feel of the site. It helped identify colour schemes, content and gave a guideline to follow throughout the development process. Although the design changed slightly throughout the creation proces, the general style remained the same. 
 
-![Wireframe used to create the homepage](read-me/wireframes/wireframe-home.png)
-
-![Wireframe used to create the gallery page](read-me/wireframes/wireframe-gallery.png)
-
-![Wireframe used to create the contact me page](read-me/wireframes/wireframe-contact.png)
+- [Wireframe used to create the homepage](read-me/wireframes/wireframe-home.png)
+- [Wireframe used to create the gallery page](read-me/wireframes/wireframe-gallery.png)
+- [Wireframe used to create the contact me page](read-me/wireframes/wireframe-contact.png)
 
 ## Features
 
