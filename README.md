@@ -96,11 +96,7 @@ A general wireframe created on Canva was used in order to identify the look and 
 ##### wireframe for contact me
 
 ![wireframe used to create the contact me page](read-me/wireframes/wireframe-contact.png)
-<!--  Design -->
-Colour scheme
-Typography
-Imagery
-Wireframes
+
 
 
 <!-- Features -->
