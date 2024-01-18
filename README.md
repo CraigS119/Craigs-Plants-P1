@@ -79,10 +79,23 @@ The font used in the logo and all headings is Pacifico. This choice was made due
 
 The images featured on the Homepage were sourced from Canva's stock images.
 For the Gallery section, images were obtained from various websites, including [Discover Ireland](https://www.discoverireland.ie/guides/summer-gardens-ireland), [Love to visit Ireland](https://lovetovisitireland.com/blarney-castle-visitors-guide-updated-2023/), [TripAdvisor](https://www.tripadvisor.ie/Attractions-g186591-Activities-c57-t58-Ireland.html), and [The Independent](https://www.independent.ie/life/travel/ireland/top-10-irish-gardens-shane-fitzsimons-and-norrie-lalors-picks-to-put-a-spring-in-your-step/40269497.html).
-
 The background image for the Contact Me section was also sourced from Canva's stock.
 
+#### Wireframe
 
+A general wireframe created on Canva was used in order to identify the look and feel of the site. It helped identify colour schemes, content and gave a guideline to follow throughout the development process. 
+
+##### wireframe for homepage
+
+![wireframe used to create the homepage](read-me/wireframes/wireframe-home.png)
+
+##### wireframe for gallery
+
+![wireframe used to create the gallery page](read-me/wireframes/wireframe-gallery.png)
+
+##### wireframe for contact me
+
+![wireframe used to create the contact me page](read-me/wireframes/wireframe-contact.png)
 <!--  Design -->
 Colour scheme
 Typography
