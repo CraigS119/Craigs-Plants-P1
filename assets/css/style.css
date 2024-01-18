@@ -24,7 +24,7 @@ h3 {
     font-weight: 300;
 }
 
-/* Styling for header */
+/* styling for header */
 header {
     background-color: #ffffff;
     padding: 0 1rem;
@@ -33,7 +33,7 @@ header {
     z-index: 1;
     width: 100%;
     border-bottom: 5px solid #1e6639;
-    /* This makes all header elements align evenly on top*/
+    /* this makes all header elements align evenly on top */
     display: flex;
     justify-content: space-between;
 }
@@ -44,7 +44,7 @@ header a {
     font-family: 'pacifico', sans-serif;
 }
 
-/*this keeps the logo in-line with the nav-menu*/
+/* this keeps the logo in-line with the nav-menu */
 #logo-link {
     max-height: 50px;
     margin-bottom: 5px;
@@ -89,14 +89,14 @@ nav {
     font-size: 200%;
 }
 
-/* styling for the main content*/
+/* styling for the main content */
 main {
     flex: 1 0 auto;
     margin-top: 80px;
 }
 
-/* Home page*/
-/* Hero Section */
+/* home page */
+/* hero Section */
 #hero {
     height: 500px;
     width: 100%;
@@ -116,7 +116,7 @@ main {
     width: 85%;
 }
 
-/*meet me section */
+/* meet me section */
 #meet-craig,
 #my-passion {
     padding: 10px;
@@ -156,7 +156,7 @@ main {
     background: url(../images/meet-me.webp) no-repeat center center/cover;
     margin-bottom: 10px;
     margin-top: 10px;
-    /*makes the image a circle*/
+    /* makes the image a circle*/
     border-radius: 50%;
     max-width: 300px;
     max-height: 300px;
@@ -168,13 +168,13 @@ main {
     background: url(../images/garden-pic.webp) no-repeat center center/cover;
     margin-bottom: 10px;
     margin-top: 10px;
-    /*makes the image a circle*/
+    /* makes the image a circle */
     border-radius: 50%;
     max-width: 300px;
     max-height: 300px;
 }
 
-/* Makes video element responsive - adapted from w3 schools (https://www.w3schools.com/howto/howto_css_responsive_iframes.asp) */
+/* makes video element responsive - adapted from w3 schools (https://www.w3schools.com/howto/howto_css_responsive_iframes.asp) */
 #benefits-video {
     position: relative;
     overflow: hidden;
@@ -185,7 +185,6 @@ main {
     max-width: 863px;
 }
 
-/* Then style the iframe to fit in the container div with full height and width */
 .responsive-video {
     position: absolute;
     top: 0;
@@ -204,8 +203,8 @@ main {
     justify-content: center;
 }
 
-/* Styling for Gallery Page */
-/* Styling for gallery title and introduction text */
+/* styling for gallery page */
+/* styling for gallery title and introduction text */
 #gallery-intro {
     text-align: center;
     padding: 10px 10px;
@@ -224,7 +223,7 @@ main {
     font-size: 1em;
 }
 
-/* Styling for gallery images */
+/* styling for gallery images */
 #gallery {
     display: flex;
     flex-wrap: wrap;
@@ -232,7 +231,7 @@ main {
     margin-bottom: 20px;
 }
 
-/* Style for each gallery section */
+/* style for each gallery section */
 .gallery-section {
     display: inline-block;
     margin: 10px;
@@ -240,14 +239,14 @@ main {
     text-align: center;
 }
 
-/* Style for each gallery image */
+/* style for each gallery image */
 .gallery-photo img {
     max-width: 300px;
     max-height: 300px;
     object-fit: cover;
 }
 
-/* Style for text underneath each image */
+/* style for text underneath each image */
 .gallery-text p {
     max-width: 280px;
     height: 50px;
@@ -255,8 +254,8 @@ main {
     word-wrap: break-word;
 }
 
-/* Styling for Contact Me Page */
-/* Styling for page background */
+/* styling for contact me page */
+/* styling for page background */
 #contact-bg {
     background: url(../images/contact-bg.webp) no-repeat center center;
     background-size: cover;
@@ -264,7 +263,7 @@ main {
     min-height: 100%;
 }
 
-/*Styling for contact form*/
+/*styling for contact form */
 #contact-content {
     display: flex;
     position: relative;
@@ -278,7 +277,7 @@ main {
     border: 5px solid #ffffff;
 }
 
-/*Styling for top section above form - title and p text" */
+/* styling for top section above form - title and p text */
 #contact-me-introduction {
     margin-bottom: 20px;
     text-align: center;
@@ -289,7 +288,7 @@ main {
     margin-bottom: 10px;
 }
 
-/*Styling for input elements on contact form*/
+/* styling for input elements on contact form */
 .input {
     display: flex;
     justify-content: center;
@@ -299,13 +298,13 @@ main {
     text-align: left;
 }
 
-/* Styling for the text input fields */
+/* styling for text input fields */
 .text-input {
     height: 40px;
     width: 90%;
 }
 
-/* Styling for message area */
+/* styling for message area */
 #message {
     width: 90%;
     height: 200px;
@@ -313,12 +312,12 @@ main {
     box-sizing: border-box;
 }
 
-/*styling for questions that aren't labels*/
+/* styling for questions that aren't labels */
 .input p {
     text-align: left;
 }
 
-/*Styling for slider rating garden knowledge in contact form*/
+/* styling for slider rating garden knowledge in contact form */
 #garden-slider {
     display: flex;
     justify-content: center;
@@ -331,7 +330,7 @@ main {
     width: 80%;
 }
 
-/* Styling for numbers next to slider */
+/* styling for numbers next to slider */
 #slide-left {
     margin-right: 10px;
 }
@@ -340,7 +339,7 @@ main {
     margin-left: 10px;
 }
 
-/* Styling for send button */
+/* styling for send button */
 #submit-form {
     background-color: #1E6639;
     color: #ffffff;
@@ -352,7 +351,7 @@ main {
     margin: 20px 0;
 }
 
-/* Styling to add space between label and input */
+/* styling to add space between label and input */
 #contact-me-form div label {
     margin-bottom: 5px;
 }
@@ -369,7 +368,6 @@ footer {
 }
 
 #social-title {
-    /*margin-bottom: 10px;*/
     margin-top: 10px;
     color: white;
     font-size: 90%;
@@ -389,12 +387,11 @@ footer {
     color: #ffffff;
 }
 
-/*Media query styling*/
-
-/* media query for tablets or larger*/
+/* media query styling */
+/* media query for tablets or larger */
 @media screen and (min-width: 768px) {
 
-    /*navbar styling (expand on larger screens)*/
+    /* navbar styling (expand on larger screens) */
     nav {
         display: block;
         position: relative;
@@ -403,7 +400,7 @@ footer {
         padding-right: 1rem;
     }
 
-    /* this puts nav menu in a row */
+    /* puts nav menu in a row */
     #nav-menu {
         display: flex;
     }
@@ -413,13 +410,13 @@ footer {
         padding-left: 1rem;
     }
 
-    /*this hides the burger icon when on bigger screens*/
+    /* this hides the burger icon on bigger screens */
     .nav-toggle-label {
         display: none;
     }
 
     /* meet craig section */
-    /* makes meet craig image slightly wider */
+    /* increases meet craig image slightly */
     #craig-pic,
     #garden-pic {
         border-radius: 10%;
@@ -427,8 +424,8 @@ footer {
         max-height: 300px;
     }
 
-    /* footer*/
-    /*enlarges social-title on bigger screens*/
+    /* footer */
+    /* enlarges social-title on bigger screens */
     #social-title {
         font-size: 1.5rem;
     }
@@ -438,13 +435,13 @@ footer {
 /* media query for laptops or larger*/
 @media screen and (min-width: 992px) {
 
-    /* Header section */
+    /* header section */
     /* gives nav-menu elements a line underneath when hovered on */
     #nav-menu a:hover {
         border-bottom: 2px solid #1e6639;
     }
 
-    /* Main Content */
+    /* main content */
     /* meet-craig & my-passion section */
     #meet-craig,
     #my-passion {
@@ -458,13 +455,13 @@ footer {
         margin: 0 50px
     }
 
-    /* Specific styles for meet-craig section */
+    /* specific styles for meet-craig section */
     #meet-craig-image,
     #meet-craig-text {
         flex: 1;
     }
 
-    /* Specific styles for my-passion section */
+    /* specific styles for my-passion section */
     #my-passion-image {
         order: -1;
         flex: 1;
@@ -482,20 +479,20 @@ footer {
         max-height: 350px;
     }
 
-    /* Gap for text next to larger image */
+    /* gap for text next to larger image */
     #meet-craig-text p,
     #my-passion-text p,
     #benefits-text p {
         margin: 0 20px
     }
 
-    /* Styling for some extra space below hero section on larger screens */
+    /* styling for some extra space below hero section on larger screens */
     #meet-craig {
         margin-top: 25px
     }
 
-    /*Footer*/
-    /*This enlarges the footer title*/
+    /* footer */
+    /* this enlarges the footer title */
     #social-title {
         font-size: 2rem;
     }
