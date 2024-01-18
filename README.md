@@ -121,10 +121,19 @@ A general wireframe created on Canva was used in order to identify the look and 
 
 - Both the hero image and the cover text are fully responsive and adapt to various screen sizes.
 
-![hero image and cover text on mobile and desktop](read-me/media/hero-responsive.png)
-
+![hero image and cover text on mobile and desktop](read-me/media/home-page/hero-responsive.png)
 
 #### Meet Craig
+
+- The meet Craig consists of text and an image.The text gives an introduction to who Craig is and the image shows a visual as to what Craig looks like.
+
+- Both the text and the image are responsive and change layout depending on device. The image has an extra point of responsiveness as the border radius changes depending on screen size.
+
+- Both the hero image and the cover text are fully responsive and adapt to various screen sizes.
+
+- [Meet craig section on mobile](read-me/media/home-page/meet-craig-mobile.png)
+- [Meet craig section on tablet](read-me/media/home-page/meet-craig-tablet.png)
+- [Meet craig section on laptop](read-me/media/home-page/meet-craig-laptop.png)
 
 #### My Passion
 
