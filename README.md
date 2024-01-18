@@ -68,7 +68,7 @@ To inspire and educate both beginner and intermediate gardeners about their gard
 
 
 
-![Craig's Plants website on various screen sizes](read-me/media/web-mock-up.png)
+![Color scheme used on website](read-me/media/color-scheme.png)
 
 
 <!--  Design -->
