@@ -111,16 +111,18 @@ A general wireframe created on Canva was used in order to identify the look and 
 
 ![burger menu open on smaller screens](read-me/media/burger-open.png)
 
-
-
-
-
-
-### Footer
-
 ### Home Page
 
 #### Hero Image
+
+- The hero image is the first interaction the user will have with the website. The image is colourful and portrays a biodiverse garden in the summer. This image creates an emotional response by the user and indictaes impactfully what the website's purpose is.
+  
+- This is accompanied by cover text with a semi transparent background in the the top center of the hero image. The cover text consists of a qoute by Alfred Austin speaking of the joy of working in the garden. This qoute was sourced from [BrainyQoutes.com](https://www.brainyquote.com/quotes/alfred_austin_169801).
+
+- Both the hero image and the cover text are fully responsive and adapt to various screen sizes.
+
+![hero image and cover text on mobile and desktop](read-me/media/hero-responsive.png)
+
 
 #### Meet Craig
 
@@ -137,6 +139,9 @@ A general wireframe created on Canva was used in order to identify the look and 
 #### Background Image
 
 #### Contact Form
+
+### Footer
+
 
 ### Features to implement in the future
 
