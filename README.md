@@ -71,6 +71,17 @@ The color scheme chosen for this website consists of green (#1e6639) and white (
 
 ![Color scheme used on website](read-me/media/color-scheme.png)
 
+#### Typography
+
+The font used in the logo and all headings is Pacifico. This choice was made due to its handwritten style, which imparts a personal feel to the site, adding a touch of elegance rather than merely presenting information. The text font is Poppins, selected for its clarity and legibility, ensuring users can easily read paragraph text. In case the custom fonts fail to load, a fallback font of sans-serif was implemented.
+
+#### Imagery
+
+The images featured on the Homepage were sourced from Canva's stock images.
+For the Gallery section, images were obtained from various websites, including [Discover Ireland](https://www.discoverireland.ie/guides/summer-gardens-ireland), [Love to visit Ireland](https://lovetovisitireland.com/blarney-castle-visitors-guide-updated-2023/), [TripAdvisor](https://www.tripadvisor.ie/Attractions-g186591-Activities-c57-t58-Ireland.html), and [The Independent](https://www.independent.ie/life/travel/ireland/top-10-irish-gardens-shane-fitzsimons-and-norrie-lalors-picks-to-put-a-spring-in-your-step/40269497.html).
+
+The background image for the Contact Me section was also sourced from Canva's stock.
+
 
 <!--  Design -->
 Colour scheme
