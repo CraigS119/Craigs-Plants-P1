@@ -130,12 +130,22 @@ A general wireframe created on Canva was used in order to identify the look and 
 - Both the text and the image are responsive and change layout depending on device. The image has an extra point of responsiveness as the border radius changes depending on screen size.
 
 - Both the hero image and the cover text are fully responsive and adapt to various screen sizes.
-
-- [Meet craig section on mobile](read-me/media/home-page/meet-craig-mobile.png)
-- [Meet craig section on tablet](read-me/media/home-page/meet-craig-tablet.png)
-- [Meet craig section on laptop](read-me/media/home-page/meet-craig-laptop.png)
+  - [Meet craig section on mobile](read-me/media/home-page/meet-craig-mobile.png)
+  - [Meet craig section on tablet](read-me/media/home-page/meet-craig-tablet.png)
+  - [Meet craig section on laptop](read-me/media/home-page/meet-craig-laptop.png)
 
 #### My Passion
+
+- The My passion Section also consists of text and image, similar to Meet Craig. The text aims to explains Craig's motivation and what he intends to acheive through the website. The image shows a garden in full bloom, aiming to create a visual of what a garden could could loook like. 
+
+- The responsivness of this section follows a similar pattern to that of Meet Craig, however on larger screen, the order is reversed where the image is first and text second.
+  - [My Passion section on mobile](read-me/media/home-page/my-passion-mobile.png)
+  - [My Passion section on tablet](read-me/media/home-page/my-passion-tablet.png)
+  - [My Passion section on laptop](read-me/media/home-page/my-passion-laptop.png)
+
+- This creates a nice design as the two section reflect each other on larger screens.
+
+![Meet Craig and My Passion on larger screens](read-me/media/home-page/craig-passion-together.png)
 
 #### Benefits of Gardening
 
