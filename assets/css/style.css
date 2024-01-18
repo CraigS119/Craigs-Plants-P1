@@ -521,6 +521,6 @@ footer {
 
         /* This stops the video from touching the footer */
         #benefits-video {
-            padding-top: 40%;
+            padding-top: 550px;
         }
 }
