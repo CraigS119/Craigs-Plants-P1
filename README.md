@@ -33,7 +33,7 @@ To inspire and educate both beginner and intermediate gardeners about their gard
 
 - As a general user, I want to clearly understand the purpose of the website to be clear.
 - As a general user, I want to navigate the website easily.
-- As a general user, I want to the website to format on whatever device I use.
+- As a general user, I want to the website to format on different devices that I use.
 - As a general user, I want to interact with the website to enhance the experience.
 
 #### First Time users
@@ -65,7 +65,7 @@ To inspire and educate both beginner and intermediate gardeners about their gard
 ### Design
 
 #### Color Scheme
-
+The color scheme chosen for this website was green (#1e6639) and white (#ffffff). 
 
 
 ![Color scheme used on website](read-me/media/color-scheme.png)
