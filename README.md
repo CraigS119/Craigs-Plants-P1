@@ -130,13 +130,13 @@ A general wireframe created on Canva was used in order to identify the look and 
 - Both the text and the image are responsive and change layout depending on device. The image has an extra point of responsiveness as the border radius changes depending on screen size.
 
 - Both the hero image and the cover text are fully responsive and adapt to various screen sizes.
-  - [Meet craig section on mobile](read-me/media/home-page/meet-craig-mobile.png)
-  - [Meet craig section on tablet](read-me/media/home-page/meet-craig-tablet.png)
-  - [Meet craig section on laptop](read-me/media/home-page/meet-craig-laptop.png)
+  - [Meet Craig section on mobile](read-me/media/home-page/meet-craig-mobile.png)
+  - [Meet Craig section on tablet](read-me/media/home-page/meet-craig-tablet.png)
+  - [Meet Craig section on laptop](read-me/media/home-page/meet-craig-laptop.png)
 
 #### My Passion
 
-- The My passion Section also consists of text and image, similar to Meet Craig. The text aims to explains Craig's motivation and what he intends to acheive through the website. The image shows a garden in full bloom, aiming to create a visual of what a garden could could loook like. 
+- The My passion Section also consists of text and image, similar to Meet Craig. The text aims to explains Craig's motivation and what he intends to acheive through the website. The image shows a garden in full bloom, aiming to create a visual of what a garden could could look like. The image of the garden is from canva stock photos.
 
 - The responsivness of this section follows a similar pattern to that of Meet Craig, however on larger screen, the order is reversed where the image is first and text second.
   - [My Passion section on mobile](read-me/media/home-page/my-passion-mobile.png)
@@ -148,6 +148,17 @@ A general wireframe created on Canva was used in order to identify the look and 
 ![Meet Craig and My Passion on larger screens](read-me/media/home-page/craig-passion-together.png)
 
 #### Benefits of Gardening
+
+- The benefits of gardening section consists of text and a video from YouTube. The text portrays that Craig was involved in a project that aimed at promoting mental health through gardening, and the video acts as social proof to the benefits of such a project. 
+
+- The video offers the user full control with the ability to play, stop and all other controls associated with youTube videos. The link to the video on YouTube can be found [here](https://youtu.be/xC1hmFqC6e0?si=3zIAxWMuRDx2YRbI).
+
+![Image of YouTube controls in benefits section](read-me/media/home-page/benefits-video-control.png)
+
+- Both the text and video are responsive in size and adapt accordingly to screen size.
+  - [Benefits of Gardening section on mobile](read-me/media/home-page/benefits-mobile.png)
+  - [Benefits of Gardening section on tablet](read-me/media/home-page/benefits-tablet.png)
+  - [Benefits of Gardening section on laptop](read-me/media/home-page/benefits-laptop.png)
 
 ### Gallery Page
 
