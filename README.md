@@ -93,6 +93,29 @@ A general wireframe created on Canva was used in order to identify the look and 
 
 ### Navigation Bar
 
+- The website's navigation bar is responsive, featuring a logo on the left and three anchor elements on the right. These anchors provide quick access to different pages on the website, such as the home page, the gallery page, and the contact me page. The navigation elements remain consistent across all pages, ensuring a seamless user experience.
+
+- The user can easily identify where they are on the site by a line underneath the active page on the navigation bar.
+  
+![active page on the website](read-me/media/active-page.png)
+
+- A hover effect was also incorporated to the navigation bar when the cursor hovers over the elements. A line will appear underneath the element and dissapear when moved off to indictae that this link is clickable.
+
+![cursor interacting with navigation menu](read-me/media/nav-hover.png)
+
+- On devices with a screen size of less than 768px, most commonly on screens smaller than a tablet, the navigation menu rsponds by using the burger icon to save space and keep the integrity of the web design. This was created following the steps in the love running project.
+
+![burger menu on smaller screens](read-me/media/nav-burger.png)
+
+- When the burger menu is clicked, it expands underneath the logo, then dissapears again after an option is clicked. 
+
+![burger menu open on smaller screens](read-me/media/burger-open.png)
+
+
+
+
+
+
 ### Footer
 
 ### Home Page
