@@ -199,7 +199,7 @@ main {
 
 /* Styling for Gallery Page */
 /* Styling for gallery title and introduction text */
-#gallery-text {
+#gallery-intro {
     text-align: center;
     padding: 10px 10px;
 }
@@ -209,6 +209,9 @@ main {
     margin-bottom: 10px;
 }
 
+#gallery-message {
+    margin: 0 20px
+}
 #gallery-description {
     font-size: 1em;
 }
