@@ -217,7 +217,7 @@ A general wireframe created on Canva was used in order to identify the look and 
 - A FAQ page could be implemented in order to readily address beginner gardener's common questions.
 - An events section could be incorporated to let users know of what gardening events are occuring nearby or what projects |Craig has planned or involved in.
 
-## Accessability
+### Accessability
 
 - The following features have been incorporated in order to ensure the website is accessable.
   - Semantic HTML elements have been used to provide a clear and meaningful structure to the website.
@@ -225,6 +225,58 @@ A general wireframe created on Canva was used in order to identify the look and 
   - Aria labels have been included in the social icons in the footer.
   - All images in gallery have been accompanied by relative text.
   - Used sufficent colour contrast to ensure readability.
+
+## Technology
+
+Throughout this project, the following technologies were used.
+
+### Languages
+
+- HTML
+- CSS
+
+### Frameworks, libraries and programs used
+
+#### [Google Fonts](https://fonts.google.com/)
+
+- Google fonts was used to incorporate the fonts used on the website
+
+#### [favicon.io](https://favicon.io/favicon-converter/)
+
+- favicon.io was used to create the various favicon files used in this website
+
+#### [Canva](https://www.canva.com/)
+
+- Canva was used to create graphics used in this read me and throught the website such as the logo.
+- Canva stock was used for the hero image, meet craig image, my passion image and the background image of the contact page.
+
+#### [ChatGPT](https://chat.openai.com/)
+
+- ChatGPT was used to review text to ensure spelling and grammar was correct.
+
+#### [TinyPNG](https://tinypng.com/)
+
+- TinyPNG was used to compress images and convert them to .webp
+
+#### [RGBA Color Picker](https://rgbacolorpicker.com/)
+
+- RGBA color picker was used to identify primary colours for the website's design.
+
+#### [CodeAnywhere] (<https://codeanywhere.com/>)
+
+- CodeAnywhere was used to edit and write the code.
+
+#### [GitHub](https://github.com/)
+
+- GitHub was used as a repository for the code.
+
+#### [Git](https://git-scm.com/)
+
+- Git was used for version control by utilizing the command line terminal in CodeAnywhere to commit to Git and Push to GitHub.
+
+#### [AmIResponsive](https://ui.dev/amiresponsive?url=https://craigs119.github.io/Craigs-Plants-P1/index.html)
+
+- Am I Responsive was used to check the website on various screens and create graphic in the introduction to this readme.
 
 <!--  Technologies Used -->
 Languages used
