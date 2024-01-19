@@ -111,6 +111,13 @@ A general wireframe created on Canva was used in order to identify the look and 
 
 ![burger menu open on smaller screens](read-me/media/burger-open.png)
 
+### Footer
+- The footer contains a title and four social media icons: Facebook, Instagram, Twitter (X) and YouTube. Each logo is clickable and will take the user to the relevant social media account.
+
+- The title gives context to the icons and also draws attention to the icons. It acts as a type of call to action.
+
+1[footer](read-me/media/footer-icons.png)
+
 ### Home Page
 
 #### Hero Image
@@ -198,10 +205,6 @@ A general wireframe created on Canva was used in order to identify the look and 
   - The gardening knowledge is expressed through a slider in order to allow the user to not have to put too much thought and worry they may over exagerate their knowledge. The user can move the slider based on their own judgement between one and ten.
 
 ![Garden slider in contact me form](read-me/media/contact-page/contact-me-slider.png)
-
-
-### Footer
-
 
 ### Features to implement in the future
 
