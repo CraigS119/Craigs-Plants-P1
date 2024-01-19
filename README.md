@@ -208,6 +208,11 @@ A general wireframe created on Canva was used in order to identify the look and 
 
 ### Features to implement in the future
 
+- Blogs can be added to the page in order to make it more educational. This would provide added value as well as help with SEO
+- A subscribe page to a newsletter could be created in order to communicate with frequent users of the site.
+- A FAQ page could be implemented in order to readily address beginner gardener's common questions.
+- An events section could be incorporated to let users know of what gardening events are occuring nearby or what projects |Craig has planned or involved in.
+
 <!-- Features -->
 General features of each page
 Future implementations
