@@ -166,28 +166,39 @@ A general wireframe created on Canva was used in order to identify the look and 
 
 - The Gallery has a ttitle and an introduction text above the images. This is to give context to the user as to what the images are. The text is also fully responsive.
 
-![Image of gallery introduction on laptop and mobile](read-me/media/gallery/gallery-intro-response.png)
+![Image of gallery introduction on laptop and mobile](read-me/media/gallery-page/gallery-intro-response.png)
 
 - The gallery consists of 16 sections, each consisting of one image and text underneath. The gallery portrays different gardens that Craig has worked on in Ireland. The page is fully responsive, adapting its rows and columns depending on screen size. 
-  - [Gallery page on mobile](read-me/media/gallery/gallery-mobile.png)
-  - [Gallery page on tablet](read-me/media/gallery/gallery-tablet.png)
-  - [Gallery page on laptop](read-me/media/gallery/gallery-laptop.png)
+  - [Gallery page on mobile](read-me/media/gallery-page/gallery-mobile.png)
+  - [Gallery page on tablet](read-me/media/gallery-page/gallery-tablet.png)
+  - [Gallery page on laptop](read-me/media/gallery-page/gallery-laptop.png)
 
 #### Gallery Image
 
 - Each gallery is downloadable by the user. each image is also accompanied by text underneath giving the name and location of the garden they are viewing.
 
-![example of gallery image in gallery](read-me/media/gallery/gallery-image.png)
+![example of gallery image in gallery](read-me/media/gallery-page/gallery-image.png)
 
 - Each image is clickable and will bring the user to an external website relating to the garden where the user can find out more information.
 
-![clickable link on each image](read-me/media/gallery/gallery-link.png)
+![clickable link on each image](read-me/media/gallery-page/gallery-link.png)
 
 ### Contact me Page
 
-#### Background Image
+- The contact me page is aimed at taking the user into the real world and creating offline engagement. The form is fully responsive and adapts to various screen sizes. The page has a background image of a blurred out garden in order to create a feel of a garden without seeing it. 
+  - [Contact Me page on mobile](read-me/media/contact-page/contact-me-mobile.png)
+  - [Contact Me page on tablet](read-me/media/contact-page/contact-me-tablet.png)
+  - [Contact Me page on laptop](read-me/media/contact-page/contact-me-laptop.png)
 
-#### Contact Form
+- The contact me has an introductory title and text, aimed and offering a friendly tone and what the user can contact Craig about.
+
+![Introduction text in contact me](read-me/media/contact-page/contact-me-intro.png)
+
+- The contact form consists of inputs such as first name, last name, email address, gardening knowledge and message.
+  - The gardening knowledge is expressed through a slider in order to allow the user to not have to put too much thought and worry they may over exagerate their knowledge. The user can move the slider based on their own judgement between one and ten.
+
+![Garden slider in contact me form](read-me/media/contact-page/contact-me-slider.png)
+
 
 ### Footer
 
