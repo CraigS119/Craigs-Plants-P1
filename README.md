@@ -1,6 +1,6 @@
 # Craig's Plants
 
-Craig's Plants is a website aimed at helping fellow gardeners get the most out of their garden. Craig has a wealth of knowledge and is happy to help those who need a bit of inspiration or advice. The website aims to inspire by showcasing some of the different gardens that Craig has worked on, as well as being a friendly touchpoint for beginners or experienced gardeners to get friendly advice. View the live site [here](https://craigs119.github.io/Craigs-Plants-P1/).
+Craig's Plants is a website aimed at helping fellow gardeners get the most out of their gardens. Craig has a wealth of knowledge and is happy to help those who need a bit of inspiration or advice. The website aims to inspire by showcasing some of the different gardens that Craig has worked on, as well as being a friendly touchpoint for beginners or experienced gardeners to get friendly advice. View the live site [here](https://craigs119.github.io/Craigs-Plants-P1/).
 
 ![Craig's Plants website on various screen sizes](read-me/media/web-mock-up.png)
 
@@ -96,7 +96,7 @@ To inspire and educate both beginner and intermediate gardeners about their gard
 
 - As a general user, I want to clearly understand the purpose of the website to be clear.
 - As a general user, I want to navigate the website easily.
-- As a general user, I want to the website to format on different devices that I use.
+- As a general user, I want the website to format on different devices that I use.
 - As a general user, I want to interact with the website to enhance the experience.
 
 #### First Time users
@@ -153,7 +153,7 @@ A general wireframe created on Canva was used in order to identify the look and 
 
 ## Features
 
-- A favicon was added to the website to give the website an easily identifable icon to distinguish on the tab bar.
+- A favicon was added to give the website an easily identifiable icon to distinguish it on the tab bar.
 
 ![favicon for the website](read-me/media/web-favicon.png)
 
@@ -169,7 +169,7 @@ A general wireframe created on Canva was used in order to identify the look and 
 
 ![cursor interacting with navigation menu](read-me/media/nav-hover.png)
 
-- On devices with a screen size of less than 768px, most commonly on screens smaller than a tablet, the navigation menu rsponds by using the burger icon to save space and keep the integrity of the web design. This was created following the steps in the love running project.
+- On devices with a screen size of less than 768px, most commonly on screens smaller than a tablet, the navigation menu responds by using the burger icon to save space and keep the integrity of the web design. This was created following the steps in the love running project.
 
 ![burger menu on smaller screens](read-me/media/nav-burger.png)
 
