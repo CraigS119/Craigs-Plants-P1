@@ -241,7 +241,7 @@ Throughout this project, the following technologies were used.
 
 - Google fonts was used to incorporate the fonts used on the website
 
-#### [favicon.io](https://favicon.io/favicon-converter/)
+#### [Favicon.io](https://favicon.io/favicon-converter/)
 
 - favicon.io was used to create the various favicon files used in this website
 
@@ -321,19 +321,87 @@ $ git clone https://github.com/CraigS119/Craigs-Plants-P1
 > remote: Compressing objects: 100% (8/8), done.
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
+```
 
+## Testing
 
+- Site was tested with no issues on various different browsers:
+  - Google Chrome
+  - Microsoft Edge
+  - Safari
 
-<!-- Testing -->
-Automated testing:
-W3c validator
-  Lighthouse
-Manual testing
-  Testing user stories
-  Full testing
-Bugs
-  Known bugs
-  Solved bugs
+- Site was tested on various devices using the Google developer Tool:
+  - [Galaxy Fold](read-me/testing/test-galaxy-fold.png)
+  - [Ipad Air](read-me/testing/test-pad-air.png)
+  - [My personal laptop](read-me/testing/test-personal-laptop.png)
+
+- Manual Testing of site
+  - Links in navbar bring user to expected destination
+  - Links in footer bring user to expected destination
+  - Embedded YouTube video functions as expected
+  - Sign up form submits successfully
+
+### Validator Testing
+
+#### HTML
+
+All pages have passed without error through the [W3 HTML Validator](https://validator.w3.org/)
+
+![html validator passed](read-me/testing/html-valid.png)
+
+#### CSS
+
+CSS Stylesheet passed without any errors through the [W3 CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+![css validator passed](read-me/testing/css-valid.png)
+
+#### Lighthouse Testing
+
+All pages passed through the lighthouse test and received scores of 90 or higher.
+
+- [Lighthouse test for Home page](read-me/testing/lighthouse-homepage.png)
+- [Lighthouse test for Gallery page](read-me/testing/lighthouse-gallery.png)
+- [Lighthouse test for Contact Me page](read-me/testing/lighthouse-contact-me.png)
+
+### Bugs
+
+#### Bug
+
+Couldn't get the logo to align in the centre with the navigation menu
+
+![Logo alignment bug](read-me/bugs/logo-alignment-bug.png)
+
+#### Solution
+
+It seemed that aligning the logo to the baseline didn't effect it, but did alter the nev-menu, this seemed to be the cause of the issue. I removed the flex property used a fixed height and margin-bottom. This seemedto fix the issue. 
+
+#### Bug
+
+Could not acheive the hover effect in the navigation menu
+
+#### Solution
+
+The px values and solid values were not entered, just the colour. This caused the hover effect to be invisible. Once those values were added, the effect performed as expected.
+
+#### Bug
+
+Struggled to get the cover text on the hero image to sit top-center across all devices.
+
+![cover text bug](read-me/bugs/cover-text-bug.png)
+
+#### Solution
+
+Instead of using a fixed px value, or using flex, I changed the css to left 50% and set top to 7%. The important addtion to this was “transform: translateX(-50%);”, which accounted for the size of the div.
+
+#### Bug
+
+Background image would not cover the entire page on the contact me page, it was consistantly leaving white space at the bottom despite css rules.
+
+![contact me background bug](read-me/bugs/contactbg-bug.png)
+
+#### Solution
+
+After availing of the tutor service and speaking with other students on slack (RaneemYad_5P), I moved the id "contact-bg" from a div I had within the main element and attached it to the main element itself. I then removed the absolute positioning within that ID. 
 
 
 
