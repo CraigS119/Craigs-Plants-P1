@@ -10,9 +10,71 @@ Deployed Site: <https://craigs119.github.io/Craigs-Plants-P1/contact-me.html>
 
 ## Table of contents
 
-- Item 1
-- Item 2
-- Item 3
+- [Craig's Plants](#craigs-plants)
+  - [Table of contents](#table-of-contents)
+  - [User Experience](#user-experience)
+    - [Goal of the website](#goal-of-the-website)
+      - [Key information for the site](#key-information-for-the-site)
+    - [User Stories](#user-stories)
+      - [General User Goals](#general-user-goals)
+      - [First Time users](#first-time-users)
+      - [Returning Visitor Goals](#returning-visitor-goals)
+      - [Frequent User Goals](#frequent-user-goals)
+      - [Site Owner Goals](#site-owner-goals)
+    - [Design](#design)
+      - [Color Scheme](#color-scheme)
+      - [Typography](#typography)
+      - [Imagery](#imagery)
+      - [Wireframe](#wireframe)
+  - [Features](#features)
+    - [Navigation Bar](#navigation-bar)
+    - [Footer](#footer)
+    - [Home Page](#home-page)
+      - [Hero Image](#hero-image)
+      - [Meet Craig](#meet-craig)
+      - [My Passion](#my-passion)
+      - [Benefits of Gardening](#benefits-of-gardening)
+    - [Gallery Page](#gallery-page)
+      - [Gallery Image](#gallery-image)
+    - [Contact me Page](#contact-me-page)
+    - [Features to implement in the future](#features-to-implement-in-the-future)
+    - [Accessability](#accessability)
+  - [Technology](#technology)
+    - [Languages](#languages)
+    - [Frameworks, libraries and programs used](#frameworks-libraries-and-programs-used)
+      - [Google Fonts](#google-fonts)
+      - [Favicon.io](#faviconio)
+      - [Canva](#canva)
+      - [ChatGPT](#chatgpt)
+      - [TinyPNG](#tinypng)
+      - [RGBA Color Picker](#rgba-color-picker)
+      - [CodeAnywhere](#codeanywhere)
+      - [GitHub](#github)
+      - [Git](#git)
+      - [Am I Responsive](#am-i-responsive)
+      - [Fonts Awesome](#fonts-awesome)
+  - [Deployment](#deployment)
+    - [GitHub Pages](#github-pages)
+    - [Forking the GitHub Repository](#forking-the-github-repository)
+    - [Making a Local Clone](#making-a-local-clone)
+  - [Testing](#testing)
+    - [Validator Testing](#validator-testing)
+      - [HTML](#html)
+      - [CSS](#css)
+      - [Lighthouse Testing](#lighthouse-testing)
+    - [Bugs](#bugs)
+      - [Bug - logo Alignment](#bug---logo-alignment)
+      - [Solution](#solution)
+      - [Bug - Hover in Navigation Menu](#bug---hover-in-navigation-menu)
+      - [Solution](#solution-1)
+      - [Bug - Cover Text Alignment](#bug---cover-text-alignment)
+      - [Solution](#solution-2)
+      - [Bug - Contact me Background Image](#bug---contact-me-background-image)
+      - [Solution](#solution-3)
+  - [Credits](#credits)
+    - [Content](#content)
+    - [Code](#code)
+    - [Acknowledgements](#acknowledgements)
 
 ## User Experience
 
@@ -211,6 +273,8 @@ A general wireframe created on Canva was used in order to identify the look and 
 ![Garden slider in contact me form](read-me/media/contact-page/contact-me-slider.png)
 
 ### Features to implement in the future
+
+These features were included in this project dur to resources and time constraints. In the future, I reccomend to include:
 
 - Blogs can be added to the page in order to make it more educational. This would provide added value as well as help with SEO
 - A subscribe page to a newsletter could be created in order to communicate with frequent users of the site.
