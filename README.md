@@ -4,8 +4,7 @@ Craig's Plants is a website aimed at helping fellow gardeners get the most out o
 
 ![Craig's Plants website on various screen sizes](read-me/media/web-mock-up.png)
 
-GitHub Profile: <https://github.com/CraigS119/Craigs-Plants-P1> 
-<br>
+GitHub Profile: <https://github.com/CraigS119/Craigs-Plants-P1>
 Deployed Site: <https://craigs119.github.io/Craigs-Plants-P1/contact-me.html>
 
 ## Table of contents
@@ -94,7 +93,7 @@ To inspire and educate both beginner and intermediate gardeners about their gard
 
 #### General User Goals
 
-- As a general user, I want to clearly understand the purpose of the website to be clear.
+- As a general user, I want to clearly understand the purpose of the website.
 - As a general user, I want to navigate the website easily.
 - As a general user, I want the website to format on different devices that I use.
 - As a general user, I want to interact with the website to enhance the experience.
@@ -145,7 +144,7 @@ The background image for the Contact Me section was also sourced from Canva's st
 
 #### Wireframe
 
-A general wireframe created on Canva was used in order to identify the look and feel of the site. It helped identify colour schemes, content and gave a guideline to follow throughout the development process. Although the design changed slightly throughout the creation proces, the general style remained the same. 
+A general wireframe created on Canva was used in order to identify the look and feel of the site. It helped identify colour schemes, content and gave a guideline to follow throughout the development process. Although the design changed slightly throughout the creation proces, the general style remained the same.
 
 - [Wireframe used to create the homepage](read-me/wireframes/wireframe-home.png)
 - [Wireframe used to create the gallery page](read-me/wireframes/wireframe-gallery.png)
@@ -173,11 +172,12 @@ A general wireframe created on Canva was used in order to identify the look and 
 
 ![burger menu on smaller screens](read-me/media/nav-burger.png)
 
-- When the burger menu is clicked, it expands underneath the logo, then dissapears again after an option is clicked. 
+- When the burger menu is clicked, it expands underneath the logo, then dissapears again after an option is clicked.
 
 ![burger menu open on smaller screens](read-me/media/burger-open.png)
 
 ### Footer
+
 - The footer contains a title and four social media icons: Facebook, Instagram, Twitter (X) and YouTube. Each logo is clickable and will take the user to the relevant social media account.
 
 - The title gives context to the icons and also draws attention to the icons. It acts as a type of call to action.
@@ -222,7 +222,7 @@ A general wireframe created on Canva was used in order to identify the look and 
 
 #### Benefits of Gardening
 
-- The benefits of gardening section consists of text and a video from YouTube. The text portrays that Craig was involved in a project that aimed at promoting mental health through gardening, and the video acts as social proof to the benefits of such a project. 
+- The benefits of gardening section consists of text and a video from YouTube. The text portrays that Craig was involved in a project that aimed at promoting mental health through gardening, and the video acts as social proof to the benefits of such a project.
 
 - The video offers the user full control with the ability to play, stop and all other controls associated with youTube videos. The link to the video on YouTube can be found [here](https://youtu.be/xC1hmFqC6e0?si=3zIAxWMuRDx2YRbI).
 
@@ -241,7 +241,7 @@ A general wireframe created on Canva was used in order to identify the look and 
 
 ![Image of gallery introduction on laptop and mobile](read-me/media/gallery-page/gallery-intro-response.png)
 
-- The gallery consists of 16 sections, each consisting of one image and text underneath. The gallery portrays different gardens that Craig has worked on in Ireland. The page is fully responsive, adapting its rows and columns depending on screen size. 
+- The gallery consists of 16 sections, each consisting of one image and text underneath. The gallery portrays different gardens that Craig has worked on in Ireland. The page is fully responsive, adapting its rows and columns depending on screen size.
   - [Gallery page on mobile](read-me/media/gallery-page/gallery-mobile.png)
   - [Gallery page on tablet](read-me/media/gallery-page/gallery-tablet.png)
   - [Gallery page on laptop](read-me/media/gallery-page/gallery-laptop.png)
@@ -258,7 +258,7 @@ A general wireframe created on Canva was used in order to identify the look and 
 
 ### Contact me Page
 
-- The contact me page is aimed at taking the user into the real world and creating offline engagement. The form is fully responsive and adapts to various screen sizes. The page has a background image of a blurred out garden in order to create a feel of a garden without seeing it. 
+- The contact me page is aimed at taking the user into the real world and creating offline engagement. The form is fully responsive and adapts to various screen sizes. The page has a background image of a blurred out garden in order to create a feel of a garden without seeing it.
   - [Contact Me page on mobile](read-me/media/contact-page/contact-me-mobile.png)
   - [Contact Me page on tablet](read-me/media/contact-page/contact-me-tablet.png)
   - [Contact Me page on laptop](read-me/media/contact-page/contact-me-laptop.png)
@@ -439,7 +439,7 @@ Couldn't get the logo to align in the centre with the navigation menu
 
 #### Solution
 
-It seemed that aligning the logo to the baseline didn't effect it, but did alter the nev-menu, this seemed to be the cause of the issue. I removed the flex property used a fixed height and margin-bottom. This seemedto fix the issue. 
+It seemed that aligning the logo to the baseline didn't effect it, but did alter the nev-menu, this seemed to be the cause of the issue. I removed the flex property used a fixed height and margin-bottom. This seemedto fix the issue.
 
 #### Bug - Hover in Navigation Menu
 
