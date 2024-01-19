@@ -120,7 +120,7 @@ A general wireframe created on Canva was used in order to identify the look and 
 
 - The title gives context to the icons and also draws attention to the icons. It acts as a type of call to action.
 
-1[footer](read-me/media/footer-icons.png)
+![footer](read-me/media/footer-icons.png)
 
 ### Home Page
 
