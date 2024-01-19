@@ -80,7 +80,7 @@ Deployed Site: <https://craigs119.github.io/Craigs-Plants-P1/contact-me.html>
 
 ### Goal of the website
 
-To inspire and educate both beginner and intermediate gardeners about their gardens. It will aim to provide users with various horticultural examples, visuals and advice, to illustrate the potential of their gardens.
+To inspire and educate both beginner and intermediate gardeners about their gardens. It will aim to provide users with various horticultural examples, visuals, and advice to illustrate the potential of their gardens.
 
 #### Key information for the site
 
