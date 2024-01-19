@@ -91,6 +91,10 @@ A general wireframe created on Canva was used in order to identify the look and 
 
 ## Features
 
+- A favicon was added to the website to give the website an easily identifable icon to distinguish on the tab bar.
+
+![favicon for the website](read-me/media/web-favicon.png)
+
 ### Navigation Bar
 
 - The website's navigation bar is responsive, featuring a logo on the left and three anchor elements on the right. These anchors provide quick access to different pages on the website, such as the home page, the gallery page, and the contact me page. The navigation elements remain consistent across all pages, ensuring a seamless user experience.
@@ -213,13 +217,14 @@ A general wireframe created on Canva was used in order to identify the look and 
 - A FAQ page could be implemented in order to readily address beginner gardener's common questions.
 - An events section could be incorporated to let users know of what gardening events are occuring nearby or what projects |Craig has planned or involved in.
 
-<!-- Features -->
-General features of each page
-Future implementations
-Accessibility
+## Accessability
 
-
-
+- The following features have been incorporated in order to ensure the website is accessable.
+  - Semantic HTML elements have been used to provide a clear and meaningful structure to the website.
+  - Alt tags have been included in all images across the website.
+  - Aria labels have been included in the social icons in the footer.
+  - All images in gallery have been accompanied by relative text.
+  - Used sufficent colour contrast to ensure readability.
 
 <!--  Technologies Used -->
 Languages used
