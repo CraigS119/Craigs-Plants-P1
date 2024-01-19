@@ -278,6 +278,8 @@ Throughout this project, the following technologies were used.
 
 - Am I Responsive was used to check the website on various screens and create graphic in the introduction to this readme.
 
+#### [Fonts Awesome](https://fontawesome.com/)
+
 ## Deployment
 
 ### GitHub Pages
@@ -365,7 +367,7 @@ All pages passed through the lighthouse test and received scores of 90 or higher
 
 ### Bugs
 
-#### Bug
+#### Bug - logo Alignment
 
 Couldn't get the logo to align in the centre with the navigation menu
 
@@ -375,7 +377,7 @@ Couldn't get the logo to align in the centre with the navigation menu
 
 It seemed that aligning the logo to the baseline didn't effect it, but did alter the nev-menu, this seemed to be the cause of the issue. I removed the flex property used a fixed height and margin-bottom. This seemedto fix the issue. 
 
-#### Bug
+#### Bug - Hover in Navigation Menu
 
 Could not acheive the hover effect in the navigation menu
 
@@ -383,7 +385,7 @@ Could not acheive the hover effect in the navigation menu
 
 The px values and solid values were not entered, just the colour. This caused the hover effect to be invisible. Once those values were added, the effect performed as expected.
 
-#### Bug
+#### Bug - Cover Text Alignment
 
 Struggled to get the cover text on the hero image to sit top-center across all devices.
 
@@ -393,7 +395,7 @@ Struggled to get the cover text on the hero image to sit top-center across all d
 
 Instead of using a fixed px value, or using flex, I changed the css to left 50% and set top to 7%. The important addtion to this was “transform: translateX(-50%);”, which accounted for the size of the div.
 
-#### Bug
+#### Bug - Contact me Background Image
 
 Background image would not cover the entire page on the contact me page, it was consistantly leaving white space at the bottom despite css rules.
 
@@ -401,12 +403,34 @@ Background image would not cover the entire page on the contact me page, it was 
 
 #### Solution
 
-After availing of the tutor service and speaking with other students on slack (RaneemYad_5P), I moved the id "contact-bg" from a div I had within the main element and attached it to the main element itself. I then removed the absolute positioning within that ID. 
+After availing of the tutor service and speaking with other students on slack "RaneemYad_5P", I moved the id "contact-bg" from a div I had within the main element and attached it to the main element itself. I then removed the absolute positioning within that ID.
 
+## Credits
 
+### Content
 
-<!-- Credits -->
-Code used
-Content
-Media
-Acknowledgements
+- Images used for the gallery can be found in these websites
+  - [Discover Ireland](https://www.discoverireland.ie/guides/summer-gardens-ireland)
+  - [Blarney Castle](https://lovetovisitireland.com/blarney-castle-visitors-guide-updated-2023/)
+  - [TripAdvisor](https://www.tripadvisor.ie/Attractions-g186591-Activities-c57-t58-Ireland.html)
+  - [The Independent](https://www.independent.ie/life/travel/ireland/top-10-irish-gardens-shane-fitzsimons-and-norrie-lalors-picks-to-put-a-spring-in-your-step/40269497.html)
+  - [All Other Images](https://www.canva.com/)
+
+- Other Content
+  - [Youtube Video](https://youtu.be/xC1hmFqC6e0?si=yYSvOq2iYZsWS0ub)
+  - [Cover Text Qoute](https://www.brainyquote.com/quotes/alfred_austin_169801)
+  - [Icons](https://fontawesome.com/)
+  - All copyright was written and edited by myself with the aid of ChatGPT.
+
+### Code
+
+- The header and footer were created following the steps in the Love Running project
+- Gallery was based off [this lesson](https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery) from W3 schools.
+- CSS for styling the contact me background image was helped by RaneemYad_5P on Slack
+- How to make the youtube video responsive was based off [tis video](https://www.w3schools.com/howto/howto_css_responsive_iframes.asp)
+- Styling for the contact form was based off [this video](https://www.youtube.com/watch?v=gggB0Nq5vBk)
+
+### Acknowledgements
+
+- My mentor Excellence Ilesanmi.
+- The CI Slack community for inspiration and help when needed.
